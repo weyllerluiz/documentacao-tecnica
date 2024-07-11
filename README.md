@@ -29,4 +29,4 @@
 
 🔗 **Veja o Site Real**
 
-- Para visualizar a página de documentação técnica em funcionamento,[clique aqui](https://weyllerluiz.github.io/documentacao-tecnica/).
+- Para visualizar a página de documentação técnica em funcionamento, [clique aqui](https://weyllerluiz.github.io/documentacao-tecnica/).
