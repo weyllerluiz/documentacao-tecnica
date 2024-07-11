@@ -20,7 +20,7 @@
 
 📝 **Como Usar**
 
-Para visualizar a documentação técnica, abra o arquivo [index.html](https://github.com/weyllerluiz/documentacao-tecnica/blob/main/index.html) diretamente no GitHub.
+- Para visualizar a documentação técnica, abra o arquivo [index.html](https://github.com/weyllerluiz/documentacao-tecnica/blob/main/index.html) diretamente no GitHub.
 
 🚀 **Próximos Passos**
 
