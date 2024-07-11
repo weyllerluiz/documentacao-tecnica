@@ -2,7 +2,7 @@
 
 ℹ️ **Sobre o Projeto**
 
-Esta é uma página de documentação técnica que abrange conceitos essenciais de HTML, CSS e JavaScript.
+- Esta é uma página de documentação técnica que abrange conceitos essenciais de HTML, CSS e JavaScript.
 
 🛠️ **Tecnologias Utilizadas**
 
@@ -12,11 +12,11 @@ Esta é uma página de documentação técnica que abrange conceitos essenciais 
 
 📱 **Responsividade**
 
-O layout é responsivo, adaptando-se a dispositivos móveis através de media queries.
+- O layout é responsivo, adaptando-se a dispositivos móveis através de media queries.
 
 🎨 **Estilo**
 
-O design utiliza uma barra de navegação fixa à esquerda e conteúdo principal flexível.
+- O design utiliza uma barra de navegação fixa à esquerda e conteúdo principal flexível.
 
 📝 **Como Usar**
 
@@ -29,4 +29,4 @@ Para visualizar a documentação técnica, abra o arquivo [index.html](https://g
 
 🔗 **Veja o Site Real**
 
-Para visualizar a página de documentação técnica em funcionamento,[clique aqui](https://weyllerluiz.github.io/documentacao-tecnica/).
+- Para visualizar a página de documentação técnica em funcionamento,[clique aqui](https://weyllerluiz.github.io/documentacao-tecnica/).
