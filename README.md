@@ -29,4 +29,8 @@ Para visualizar a documentação técnica, abra o arquivo [index.html](https://g
 
 🔗 **Veja o Site Real**
 
+<<<<<<< HEAD
 - Para visualizar a página de documentação técnica em funcionamento,[clique aqui](https://weyllerluiz.github.io/documentacao-tecnica/).
+=======
+Para visualizar a página de documentação técnica em funcionamento, [clique aqui](https://weyllerluiz.github.io/documentacao-tecnica/).
+>>>>>>> 13f36df9a8c5337bfb414852c8de3219036a2cb4
